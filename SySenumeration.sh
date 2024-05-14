@@ -78,6 +78,12 @@ enumerate() {
 	write_report "Last connections"
 	line
 	write_report "$(last)"
+	line
+
+	write_report "Open port connections"
+	line
+	write_report "$(netstat -tuln)"
+	line
 }
 
 enumerate
