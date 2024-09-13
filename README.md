@@ -11,9 +11,9 @@ Give execution permissions and install requirements:
 `sudo ./requirements.sh`
 
 Give execution permissions: 
-`chmod +x SySenumeration.sh`
+`chmod +x enumeration.sh`
 
 Run the script: 
-`./SySenumeration.sh`
+`./enumeration.sh`
 
 Once executed we will be able to see the information collected in the report
