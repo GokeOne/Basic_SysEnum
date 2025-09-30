@@ -2,4 +2,4 @@
 
 apt update
 
-apt install -y net-tools coreutils dpkg util-linux
+apt install -y net-tools coreutils dpkg util-linux sysstat
